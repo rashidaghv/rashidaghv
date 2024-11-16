@@ -9,12 +9,8 @@ I'm a Computer Science student specializing in Artificial Intelligence. Currentl
 - **Tools**: Docker, Kubernetes, AWS
 
 ## 🌟 Projects
-- **Analyzing Spotify’s Top Hits** - (Link to the project)
-- **Recipe Chatbot** - (Link to the project)
-  
-## 🏆 Achievements
-- Winner of [Competition Name]
-- Published [Paper/Article Name] on [Publication]
+- **Analyzing Spotify’s Top Hits** - [(Link to the project)](https://github.com/rashidaghv/SpotifyAnalysis)
+- **Recipe Chatbot** - [(Link to the project)](https://github.com/rashidaghv/recipeChatBot)
 
 ## 🎨 Interests
 Outside of programming, I enjoy Dancing, Voleyball, and Formula 1.
